@@ -16,6 +16,7 @@ public class max_chunks2 {public int maxChunksToSorted(int[] arr) {
     lmax=Math.max(arr[i],lmax);
         if(lmax<=Rmin[i+1])
             count++;
+            int c;
    }
 
     
