@@ -1,5 +1,7 @@
 package Two_pointers.day7;
-import java.util.*
+
+import java.util.*;
+
 public class Two_sum_1 {
 class Solution {
     public int[] twoSum(int[] nums, int target) {
