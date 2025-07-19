@@ -1,4 +1,4 @@
-package heaps;
+package heaps.day15;
 
 import java.util.PriorityQueue;
 
